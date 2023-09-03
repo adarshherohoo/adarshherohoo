@@ -1,19 +1,19 @@
 ![Banner](<https://drscdn.500px.org/photo/1072443473/q%3D50_w%3D1000_of%3D1/v2?sig=23e04a657ab72bca2b11361199c7ce25ef1c0a89ee6db472104863d8ef5b15bc>)
 <h1 align="center">Hi 👋, I'm Adarsh Joshi</h1>
-<h3 align="center">A passionate Learner and Tech Enthusiast from Nepal</h3>
+<h3 align="center">A learner and technophile person from Sudurpaschim</h3>
 <img align="right" alt="data" width= "600" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshiadarshx&label=Profile%20views&color=0e75b6&style=flat" alt="joshiadarshx" /> </p>
 
 <p align="left"> <a href="https://twitter.com/strangexe" target="blank"><img src="https://img.shields.io/twitter/follow/strangexe?logo=twitter&style=for-the-badge" alt="strangexe" /></a> </p>
 
-- 🌱 I’m currently learning **Python and Data Science**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Python**
 
 - 📝 I regularly write articles on [https://medium.com/@strangexee](https://medium.com/@strangexee)
 
-- 💬 Ask me about **Tech Devices , AI , Python,**
+- 💬 Ask me about **Tech Devices , AI , Python, technology, web-dev**
 
 - 📫 How to reach me **joshiadarsh239@gmail.com**
 
