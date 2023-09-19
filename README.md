@@ -1,7 +1,7 @@
 ![Banner](<https://drscdn.500px.org/photo/1072443473/q%3D50_w%3D1000_of%3D1/v2?sig=23e04a657ab72bca2b11361199c7ce25ef1c0a89ee6db472104863d8ef5b15bc>)
 <h1 align="center">Hi 👋, I'm Adarsh Joshi</h1>
 <h3 align="center">A learner and technophile person from Sudurpaschim</h3>
-<img align="right" alt="data" width= "600" src="https://github.com/joshiadarshx/joshiadarshx/blob/main/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+<img align="right" alt="data" width= "600" src="https://github.com/joshiadarshx/joshiadarshx/blob/main/Readmegif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshiadarshx&label=Profile%20views&color=0e75b6&style=flat" alt="joshiadarshx" /> </p>
 
