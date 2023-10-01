@@ -1,5 +1,5 @@
 ![Banner](<https://drscdn.500px.org/photo/1072443473/q%3D50_w%3D1000_of%3D1/v2?sig=23e04a657ab72bca2b11361199c7ce25ef1c0a89ee6db472104863d8ef5b15bc>)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD73F7&center=true&vCenter=true&width=435&height=54&lines=Hello+I'm+ADARSH+JOSHI)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F74218&width=435&lines=Hello+I'm+ADARSH+JOSHI" alt="Typing SVG" /></a>
 <h3 align="center">A learner and technophile person from Sudurpaschim</h3>
 <img align="right" alt="data" width= "600" src="https://github.com/joshiadarshx/joshiadarshx/blob/main/Readmegif.gif">
 
