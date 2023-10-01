@@ -18,6 +18,7 @@
 - 📫 How to reach me **joshiadarsh239@gmail.com**
 
 - ⚡ Fun fact **(┬┬﹏┬┬) i love online gaming and badminton**
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="1000" src="https://github-profile-trophy.vercel.app/?username=joshiadarshx" alt="Adarsh" /></a> </p>
   ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
