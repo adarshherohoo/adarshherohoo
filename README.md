@@ -1,5 +1,5 @@
 ![Banner](<https://github.com/joshiadarshx/joshiadarshx/blob/main/Banner.png>)
-<a href="https://git.io/typing-svg"><img src="https://github.com/joshiadarshx/joshiadarshx/blob/main/AD_banner.gif" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://github.com/joshiadarshx/joshiadarshx/blob/main/Aj_name.gif" alt="Typing SVG" /></a>
 <h3 align="center">A learner and technophile person from Sudurpaschim</h3>
 <img align="right" alt="data" width= "600" src="https://github.com/joshiadarshx/joshiadarshx/blob/main/Readmegif.gif">
 
