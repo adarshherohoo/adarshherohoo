@@ -11,9 +11,9 @@
 
 - 📝 I regularly write articles on [https://medium.com/@strangexee](https://medium.com/@strangexee)
 
-- 💬 Ask me about **Tech Devices, AI , technology**
+- 💬 Ask me about **Tech Devices, technology**
 
-- 📫 How to reach me **joshiadarsh239@gmail.com**
+- 📫 How to reach me **joshiadarsh421@gmail.com**
 
 - ⚡ Fun fact **(┬┬﹏┬┬) i love online gaming and badminton**
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="1000" src="https://github-profile-trophy.vercel.app/?username=joshiadarshx" alt="Adarsh" /></a> </p>
